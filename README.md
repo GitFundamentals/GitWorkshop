@@ -1,1 +1,1 @@
-# GitWorkshop
+# Welcome to GitFundamentals
